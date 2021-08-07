@@ -4,7 +4,7 @@ library("erer")
 library(pkgmaker)
 library(MCMCprecision) #To use rdirichlet function for sampling volume fraction
 
-setwd("C:/1_Non_system_files/UNLV/Semesters/10_Fall_2020/Neuroimage/Code/Single_fiber/Estimation_wrapper")
+setwd("C:/Single_fiber")
 source("Get_polar_2_axial.R")
 source("Get_chck_th_ph.R")
 source("Get_axial_2_polar.R")
